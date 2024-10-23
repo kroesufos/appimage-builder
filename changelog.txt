@@ -1,1 +1,1 @@
-<p>Removed (proprietary) fmod binaries, using the fmod for android instead bundled with the game</p><p>1.21.30 fmod fixes</p><p>WIP Mod list</p><p>Minecraft Trial and ChromeOS UI Support</p><p>A lot of minor changes</p>
+<p>Allow Minecraft 1.21.40 (ChromeOS Trial) to run</p>
