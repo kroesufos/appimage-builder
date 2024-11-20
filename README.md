@@ -1,25 +1,25 @@
-Building debian packages, if you have all dependencies installed
+# Usage
+### Installing the Required APK
+- Head over to [Minecraft Bedrock Android Repository](https://spectrollay.github.io/minecraft_repository/)
+- Translate the website if its in Chinese
+- Select Minecraft Bedrock Edition from Versions List
+- ![image](https://github.com/user-attachments/assets/31e579ea-2475-424d-a824-fab29f1b675f)
+- Choose the Minecraft Version to Install and use "Go to the verification version"
+- ![image](https://github.com/user-attachments/assets/f4ff0a58-4c77-495f-90a8-93bf0c31c255)
+- Select your Correct Architecture
+- Download the APK
 
-[TODO] Add all dependencies here
-- https://mcpelauncher.readthedocs.io/en/latest/source_build/msa.html#prerequirements
-- https://mcpelauncher.readthedocs.io/en/latest/source_build/launcher.html#prerequirements
-- https://mcpelauncher.readthedocs.io/en/latest/source_build/ui.html
-- `libssl-dev` (openssl 1.1.0 or newer)
+### Using the APK in NoAuth Launcher
+- Open the Launcher
+- Sign in with your Google Account
+- Once signed in, Go to the Settings > Versions Tab
+- Select Import .apk
+- ![image](https://github.com/user-attachments/assets/ca102b1f-8cd3-451d-a98e-a778a5025ee7)
+- Import the Downloaded APK file
+- Go back to Home
+- Edit your default profile and Select the Extracted APK (It should show up)
+- Save and Hit that Play button
 
-[TODO] Fix mcpelauncher-client do not hardcode deb to i386
-
-`CC=clang CXX=clang++ ./build.sh`
-
-### Can I play with an APK?
-
-No, this allowed piracy that is forbidden in this project.
-
-Any attempt to document workarounds or make it easy to import an paid apk without a valid google play game license is undesirable.
-
-Game licenses can be revoked at any point of time by you, microsoft/mojang or google, as it happened for all residents of Russia.
-
-Ignoring this policy may cause suspension including termination of this project like happended between 2022-2023.
-
-_Exception to the rule are Minecraft Trial and Edu where the latter doesn't work at this time._
-
-For the most current version of this rule see https://minecraft-linux.github.io/faq/index.html#can-i-play-with-an-apk
+### Inside the Game
+- Sign in using any Xbox/Microsoft Account
+- It should work
