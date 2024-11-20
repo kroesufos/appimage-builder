@@ -18,7 +18,7 @@
 - Import the Downloaded APK file
 - Once you see the minecraft file
 - ![image](https://github.com/user-attachments/assets/db32d5ab-55b2-494b-88ef-e5fde6cbe5e5)
-- Go back to General and enable the Trial option
+- Go back to General and disable the Chrome OS mode option
 - Click "Refresh Google PLay Version Channel" once.
 - ![image](https://github.com/user-attachments/assets/8f0e921d-a07f-454d-8398-b309822f3a83)
 - Go to home at your left sidebar
