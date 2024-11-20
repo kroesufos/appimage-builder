@@ -1,5 +1,9 @@
 # Usage
 
+## Downloading the NoAuth Launcher
+1. Go to the [GitHub Releases page for this repo](https://github.com/kroesufos/noauth-builder/releases/latest).
+2. Download the appropriate version for your system and architecture.
+
 ## Installing the Required APK
 1. Visit the [Minecraft Bedrock Android Repository](https://spectrollay.github.io/minecraft_repository/).
 2. Translate the website if it's in Chinese.
