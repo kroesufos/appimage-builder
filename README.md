@@ -23,3 +23,6 @@
 ### Inside the Game
 - Sign in using any Xbox/Microsoft Account
 - It should work
+### Credits
+ - @caffeinepyroxene for the workflow file (cracked build)
+ - @FTS427 for the readme (instructions)
