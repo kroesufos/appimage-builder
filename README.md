@@ -10,13 +10,16 @@
 - Download the APK
 
 ### Using the APK in NoAuth Launcher
-- Open the Launcher
+- (WARNING) If you already played mc with a non-cracked version: start the launcher, save your worlds ig remove the root folder '/home/user/.local/share/mcpelauncher/' and start the launcher again:
 - Sign in with your Google Account
-- Once signed in, Go to the Settings > Versions Tab
+- Once signed in, go to the Settings, enable AND DISABLE trial version, be fast, the import apk option get enabled as soon as you switch to the Versions section, it is disabled after 1 or half second.
 - Select Import .apk
 - ![image](https://github.com/user-attachments/assets/ca102b1f-8cd3-451d-a98e-a778a5025ee7)
 - Import the Downloaded APK file
-- Go back to Home
+- Once you see the minecraft file
+- ![image](https://github.com/user-attachments/assets/db32d5ab-55b2-494b-88ef-e5fde6cbe5e5)
+- Go back to General and enable the Trial option
+- Go to home at your left sidebar
 - Edit your default profile and Select the Extracted APK (It should show up)
 - Save and Hit that Play button
 
@@ -24,5 +27,5 @@
 - Sign in using any Xbox/Microsoft Account
 - It should work
 ### Credits
- - @caffeinepyroxene for the workflow file (cracked build)
+ - @caffeinepyroxene for the workflow file (build script)
  - @FTS427 for the readme (instructions)
