@@ -42,7 +42,7 @@
    - Select the extracted APK (it should now be listed).
    - Save your changes.
 8. Hit the **Play** button!
-   >If the **Play** nutton does not show up, go to **Settings**, enable **Trial** and **ChromeOS mode**, go back to **Home** and hit the **Play** button, it should crash:
+   >If the **Play** button does not show up, go to **Settings**, enable **Trial** and **ChromeOS mode**, go back to **Home** and hit the **Play** button, it should crash:
     > - Go back to *Settings* and disable both **Trial** and **ChromeOS mode** options, go back to **Home** and check if the **Play** button appears, if it does not appear, repeat these steps.
 
 ## Inside the Game
