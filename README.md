@@ -44,7 +44,7 @@
    - Save your changes.
 8. Hit the **Play** button!
    >If the **Play** button does not show up, go to **Settings**, enable **Trial** and **ChromeOS mode**, go back to **Home** and hit the **Play** button, it should crash:
-    > - Go back to *Settings* and disable both **Trial** and **ChromeOS mode** options, go back to **Home** and check if the **Play** button appears, if it does not appear, repeat these steps.
+    > - Go back to *Settings* and disable both **Trial** and **ChromeOS mode** options, go back to **Home** and check if the **Play** button appears, if it does not appear, hit the **Ask Google Again** button and then repeat these steps.
 
 ## Inside the Game
 - Sign in using any Xbox/Microsoft Account.
