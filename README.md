@@ -19,7 +19,8 @@
 > If you have already played Minecraft with a non-cracked version, follow these steps before proceeding:
 > - Start the launcher.
 > - Save your worlds.
-> - Remove the root folder located at `/home/user/.local/share/mcpelauncher/`.
+> - Log out of your Google account.
+> - Close the launcher and remove the root folder located at `/home/user/.local/share/mcpelauncher/` and also related to this if there is any (E.g: /mcpelauncher-webview/).
 > - Restart the launcher.
 
 1. Sign in with your **Google Account**.
